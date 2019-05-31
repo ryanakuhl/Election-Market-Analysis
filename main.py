@@ -67,7 +67,7 @@ def write_to_formatted_excel():
         df2 = pd.DataFrame(columns=['SPY', 'NASDAQ', 'NYSE', 'DOW'])
         stats = [lets_process.this_year[i] + '_' + s for s in stock_symbols if lets_process.this_year[i] + '_' + s in all_yahoo_data.keys()]
         for s in stats:
-            single_stock = pd.DataFrame(all_yahoo_data.get(s).Open / all_yahoo_data.get(s).Close, columns=[s.split('_')[1]])
+            single_stock = pd.DataFrame(all_yahoo_data.get(s).Close / all_yahoo_data.get(s).Open, columns=[s.split('_')[1]])
             df2[s.split('_')[1]] = single_stock[s.split('_')[1]]
             df3[getattr(df3, s.split('_')[1]).name] += single_stock[getattr(df3, s.split('_')[1]).name].values
             times_added += .25
@@ -190,10 +190,10 @@ class USA:
 
     def get_stock_week_of(self):
         stock_market = {
-                        'SPY': ('^GSPC','2016-1-2'),#70
-                        'NASDAQ': ('^IXIC','2016-2-1'),#71
-                        'DOW': ('^DJI','2016-1-29'),#85
-                        'NYSE': ('^NYA','2016-1-2')#70
+                        'SPY': ('^GSPC','1990-1-2'),#goes/ went back to 70
+                        'NASDAQ': ('^IXIC','1990-2-1'),#goes/went back to 71
+                        'DOW': ('^DJI','1990-1-29'),#used to go back to 85
+                        'NYSE': ('^NYA','1990-1-2')#goes/went back to 70
                         }
         within_stock_market_range = [key for key in stock_market if len(self.congress_date) > 3 and self.week_start > datetime.strptime(stock_market.get(key)[1], '%Y-%m-%d')]
         for stock in within_stock_market_range:
