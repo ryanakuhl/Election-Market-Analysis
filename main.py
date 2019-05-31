@@ -128,7 +128,7 @@ class ProcessData:
         self.senate_held = []
         self.stock_market = []
 
-    def all_elections(self, election):
+    def all_elections(self):
         self.elections += election_dict
         self.election_values += election_dict.values()
         self.election_keys += election_dict.keys()
@@ -190,10 +190,10 @@ class USA:
 
     def get_stock_week_of(self):
         stock_market = {
-                        'SPY': ('^GSPC','2004-1-2'),#70
-                        'NASDAQ': ('^IXIC','2004-2-1'),#71
-                        'DOW': ('^DJI','2004-1-29'),#85
-                        'NYSE': ('^NYA','2004-1-2')#70
+                        'SPY': ('^GSPC','2016-1-2'),#70
+                        'NASDAQ': ('^IXIC','2016-2-1'),#71
+                        'DOW': ('^DJI','2016-1-29'),#85
+                        'NYSE': ('^NYA','2016-1-2')#70
                         }
         within_stock_market_range = [key for key in stock_market if len(self.congress_date) > 3 and self.week_start > datetime.strptime(stock_market.get(key)[1], '%Y-%m-%d')]
         for stock in within_stock_market_range:
@@ -213,7 +213,7 @@ with open('elections.csv', 'r') as csv_file:
             if election.president_date not in election_dict:
                 election_dict[election.congress] = election
     lets_process = ProcessData()
-    lets_process.all_elections(election_dict)
+    lets_process.all_elections()
     # collect object dataframes into one for analysis
     write_to_formatted_excel()
 csv_file.close()
@@ -221,11 +221,9 @@ csv_file.close()
 
 """
 
-
-Left off:
+Next:
 
 Start learning charts to create data cuts
-
 
 """
 
