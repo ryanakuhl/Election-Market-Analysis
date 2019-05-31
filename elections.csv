@@ -1,0 +1,117 @@
+Election No.,President,Pres Party,Presidential Election,Electoral Vote,Congress (Years),Date Members of Congress were elected,# of House Seats,Pro-Administration,Anti-Administration,Other,Del./Res.,,Congress,Years,Total (senate),Dems,Reps,Others,Vacant,Total (house),Dems,Reps,Others,Vacant,,Congress (Years),President,Senate,House
+1,George Washington,,"January 7, 1789","February 4, 1789",1,,65,37,28,0,0/0,,,,,,,,,,,,,,,1st (1789-1791),,,
+,,,,,2,,69,39,30,0,0/0,,,,,,,,,,,,,,,2nd (1791-1793),,,
+2,George Washington,,"November 2, 1792","December 5, 1792",3,,105,51,54,0,36526,,,,,,,,,,,,,,,3rd (1793-1795),,,
+,,,,,4,,106,47,59,0,36526,,,,,,,,,,,,,,,4th (1795-1797),,,
+3,John Adams,,"November 4, 1796","December 7, 1796",5,,106,57,49,0,0/0,,,,,,,,,,,,,,,5th (1797-1799),,,
+,,,,,6,,106,60,46,0,36526,,,,,,,,,,,,,,,6th (1799-1801),,,
+4,Thomas Jefferson,,"October 31, 1800","December 3, 1800",7,,106,38,68,0,36557,,,,,,,,,,,,,,,7th (1801-1803),,,
+,,,,,8,,142,39,103,0,36526,,,,,,,,,,,,,,,8th (1803-1805),,,
+5,Thomas Jefferson,,"November 2, 1804","December 5, 1804",9,,142,28,114,0,36586,,,,,,,,,,,,,,,9th (1805-1807),,,
+,,,,,10,,142,26,116,0,36586,,,,,,,,,,,,,,,10th (1807-1809),,,
+6,James Madison,,"November 4, 1808","December 7, 1808",11,,142,50,92,0,36586,,,,,,,,,,,,,,,11th (1809-1811),,,
+,,,,,12,,143,36,107,0,36647,,,,,,,,,,,,,,,12th (1811-1813),,,
+7,James Madison,,"October 30, 1812","December 2, 1812",13,,182,68,114,0,36617,,,,,,,,,,,,,,,13th (1813-1815),,,
+,,,,,14,,183,64,119,0,36617,,,,,,,,,,,,,,,14th (1815-1817),,,
+8,James Monroe,,"November 1, 1816","December 4, 1816",15,,185,39,146,0,36617,,,,,,,,,,,,,,,15th (1817-1819),,,
+,,,,,16,,186,26,160,0,36617,,,,,,,,,,,,,,,16th (1819-1821),,,
+9,James Monroe,,"November 3, 1820","December 6, 1820",17,,187,32,155,0,36617,,,,,,,,,,,,,,,17th (1821-1823),,,
+,,,,,18,,213,72,64,"Crawford Republicans (53), Adams-Clay Federalists (15),Jackson Federalists (7),Crawford Federalists (2)",36586,,,,,,,,,,,,,,,18th (1823-1825),,,
+10,John Quincy Adams,,"October 29, 1824","December 1, 1824",19,,213,109,104,0,36586,,,,,,,,,,,,,,,19th (1825-1827),,,
+,,,,,20,,213,100,113,0,36586,,,,,,,,,,,,,,,20th (1827-1829),,,
+11,Andrew Jackson,,"October 31, 1828","December 3, 1828",21,,213,72,136,Anti-Masonics (5),36586,,,,,,,,,,,,,,,21st (1829-1831),,,
+,,,,,22,,213,66,126,"Anti-Masonics (17),",36586,,,,,,,,,,,,,,,22nd (1831-1833),,,
+12,Andrew Jackson,,"November 2, 1832","December 5, 1832",23,,240,63,143,"Anti-Masonics (25), Nullifiers (9)",36586,,,,,,,,,,,,,,,23rd (1833-1835),,,
+,,,,,24,,242,75,143,"Anti-Masonics (16),Nullifiers (8)",36617,,,,,,,,,,,,,,,24th (1835-1837),,,
+13,Martin Van Buren,,"November 4, 1836","December 7, 1836",25,,242,128,100,"Anti-Masonics (7),Nullifiers (6),Independent (1)",36586,,,,,,,,,,,,,,,25th (1837-1839),,,
+,,,,,26,,242,125,109,"Anti-Masonics (6),Conservatives (2)",36586,,,,,,,,,,,,,,,26th (1839-1841),,,
+14,William Henry Harrison,,"October 30, 1840","December 2, 1840",27,,242,98,142,"Independent (1),Independent Democrat (1)",36586,,,,,,,,,,,,,,,27th (1841-1843),,,
+,,,,,28,,223,147,72,"Law and Order (2),Independent Democrat (1),Independent Whig (1)",36586,,,,,,,,,,,,,,,28th (1843-1845),,,
+15,James K. Polk,,"November 1, 1844","December 4, 1844",29,,228,142,79,American (6),36557,,,,,,,,,,,,,,,29th (1845-1847),,,
+,,,,,30,,230,110,116,"Independent Democrats (2),American (1),Independent (1)",36526,,,,,,,,,,,,,,,30th (1847-1849),,,
+16,Zachary Taylor,,"November 7, 1848","December 6, 1848",31,,233,113,108,"Free Soilers (9),American (1),Independent (1)",36557,,,,,,,,,,,,,,,31st (1849-1851),,,
+,,,,,32,,233,127,85,"Unionists (10),Free Soilers (4),Independent Democrats (3),States Rights (3),Independent Whig (1)",36617,,,,,,,,,,,,,,,32nd (1851-1853),,,
+17,Franklin Pierce,,"November 2, 1852","December 1, 1852",33,,234,157,71,"Free Soilers (4),Independent (1),Independent Democrat (1)",36708,,,,,,,,,,,,,,,33rd (1853-1855),,,
+,,,,,34,,234,83,100,Americans (51),36708,,34th,1855-1857,62,42,15,5,-,234,83,108,43,-,,34th (1855-1857),,,
+18,James Buchanan,,"November 4, 1856","December 3, 1856",35,,237,132,90,"Americans (14),Independent Democrat (1)",36708,,35th,1857-1859,64,39,20,5,-,237,131,92,14,-,,35th (1857-1859),,,
+,,,,,36,,238,83,116,"Opposition (19),Anti-Lecompton Democrats (8),>Independent Democrats (7),Americans (5)",36647,,36th,1859-1861,66,38,26,2,-,237,101,113,23,-,,36th (1859-1861),,,
+19,Abraham Lincoln,,"November 6, 1860","December 5, 1860",37,,183,44,108,"Unionists (26),Constitutional Unionists (2),Unions (2),Independent Democrat (1)",36708,,37th,1861-1863,50,11,31,7,1,178,42,106,28,2,,37th (1861-1863),,,
+,,,,,38,,184,72,85,"Unconditional Unionists (16),Unionists (9),Independent Republicans (2)",36800,,38th,1863-1865,51,12,39,-,-,183,80,103,-,-,,38th (1863-1865),,,
+20,Abraham Lincoln,,"November 8, 1864","December 7, 1864",39,,193,38,136,"Unconditional Unionists (13),Unionists (5),Independent Republican (1)",36770,,39th,1865-1867,52,10,42,-,-,191,46,145,-,-,,39th (1865-1867),,,
+,,,,,40,,226,47,173,"Conservatives (2),Conservative Republican (1),Independent Republican (1)",36739,,40th,1867-1869,53,11,42,-,-,193,49,143,-,1,,40th (1867-1869),,,
+21,Ulysses S. Grant,,"November 3, 1868","December 2, 1868",41,,243,67,171,Conservatives (5),36770,,41st,1869-1871,74,11,61,-,2,243,73,170,-,-,,41st (1869-1871),,,
+,,,,,42,,243,104,136,"Liberal Republicans (2),Independent Republican (1)",36800,,42nd,1871-1873,74,17,57,-,-,243,104,139,-,-,,42nd (1871-1873),,,
+22,Ulysses S. Grant,,"November 5, 1872","December 4, 1872",43,"November  5,  1872",292,88,199,"Liberal Republicans (4),Independent Democrat (1)",36800,,43rd,1873-1875,74,19,54,-,1,293,88,203,-,2,,43rd (1873-1875),,,
+,,,,,44,"November  3,  1874",293,182,103,"Independents (4),Independent Republicans (3),Independent Democrat (1)",36770,,44th,1875-1877,76,29,46,-,1,293,181,107,3,2,,44th (1875-1877),,,
+23,Rutherford B. Hayes,,"November 7, 1876","December 6, 1876",45,"November  7,  1876",293,155,136,Independent Democrats (2),36739,,45th,1877-1879,76,36,39,1,-,293,156,137,-,-,,45th (1877-1879),,,
+,,,,,46,"November  5,  1878",293,141,132,"Nationals (13),Independent Democrats (7)",36739,,46th,1879-1881,76,43,33,-,-,293,150,128,14,1,,46th (1879-1881),,,
+24,James A. Garfield,,"November 2, 1880","December 1, 1880",47,"November  2,  1880",293,128,151,"Nationals (10),Readjuster Democrats (2),Independent (1),Independent Democrat (1)",36739,,47th,1881-1883,76,37,37,2,-,293,130,152,11,-,,47th (1881-1883),,,
+,,,,,48,"November  7,  1882",325,196,117,"Readjusters (4),Independent Democrats (3),Independents (2),Nationals (2),Independent Republican (1)",36739,,48th,1883-1885,76,36,40,-,-,325,200,119,6,-,,48th (1883-1885),,,
+25,Grover Cleveland,,"November 4, 1884","December 3, 1884",49,"November  4,  1884",325,182,141,"Independent Democrat (1),National (1)",36739,,49th,1885-1887,76,34,41,-,1,325,182,140,2,1,,49th (1885-1887),,,
+,,,,,50,"November  2,  1886",325,167,152,"Independent Republicans (2),Labors (2),Independent (1),National (1)",36739,,50th,1887-1889,76,37,39,-,-,325,170,151,4,-,,50th (1887-1889),,,
+26,Benjamin Harrison,,"November 6, 1888","January 14 ,1889",51,"November  6,  1888",332,152,179,Labor (1),36770,,51st,1889-1891,84,37,47,-,-,330,156,173,1,-,,51st (1889-1891),,,
+,,,,,52,"November  4,  1890",332,238,86,Populists (8),36617,,52nd,1891-1893,88,39,47,2,-,333,231,88,14,-,,52nd (1891-1893),,,
+27,Grover Cleveland,,"November 8, 1892","January 9, 1893",53,"November  8,  1892",356,218,124,"Populists (11),Independent Democrats (2),Silver (1)",36617,,53rd,1893-1895,88,44,38,3,3,356,220,126,10,-,,53rd (1893-1895),,,
+,,,,,54,"November  6,  1894",357,93,254,"Populists (9),Silver (1)",36617,,54th,1895-1897,88,39,44,5,-,357,104,246,7,-,,54th (1895-1897),,,
+28,William McKinley,,"November 3, 1896","January 11, 1897",55,"November  3,  1896",357,124,206,"Populists (22),Silver Republicans (3),Independent Republican (1),Silver (1)",36586,,55th,1897-1899,90,34,46,10,-,357,134,206,16,1,,55th (1897-1899),,,
+,,,,,56,"November  8,  1898",357,161,187,"Populists (5),Silver Republicans (2),Independent Populist (1),Silver (1)",36617,,56th,1899-1901,90,26,53,11,-,357,163,185,9,-,,56th (1899-1901),,,
+29,William McKinley,R,"November 6, 2000","January 14, 2001",57,"November 6, 1900",357,151,200,"Populists (5),Silver Republican (1)",43556,,57th,1901-1903,90,29,56,3,2,357,153,198,5,1,,57th (1901-1903),R,R,R
+,,,,,58,"November 4, 1902",386,176,207,Independent Republicans (3),43556,,58th,1903-1905,90,32,58,-,-,386,178,207,-,1,,58th (1903-1905),R,R,R
+30,Theodore Roosevelt,R,"November 8, 2004","January 9, 2005",59,"November 8, 1904",386,135,251,0,43586,,59th,1905-1907,90,32,58,-,-,386,136,250,-,-,,59th (1905-1907),R,R,R
+,,,,,60,"November 6, 1906",391,167,223,Independent Republican (1),43586,,60th,1907-1909,92,29,61,-,2,386,164,222,-,-,,60th (1907-1909),R,R,R
+31,William H. Taft,R,"November 3, 2008","January 11, 2009",61,"November 3, 1908",391,172,219,0,43558,,61st,1909-1911,92,32,59,-,1,391,172,219,-,-,,61st (1909-1911),R,R,R
+,,,,,62,"November 8, 1910",394,230,162,"Progressive Republican (1),Socialist (1)",43558,,62nd,1911-1913,92,42,49,-,1,391,228,162,1,-,,62nd (1911-1913),R,R,D
+32,Woodrow Wilson,D,"November 5, 2012","January 13, 2013",63,"November 5, 1912",435,291,134,"Progressives (9),Independent (1)",43499,,63rd,1913-1915,96,51,44,1,-,435,290,127,18,-,,63rd (1913-1915),D,D,D
+,,,,,64,"November 3, 1914",435,230,196,"Progressive (6),Independent (1),Prohibitionist (1),Socialist (1)",43499,,64th,1915-1917,96,56,39,1,-,435,231,193,8,3,,64th (1915-1917),D,D,D
+33,Woodrow Wilson,D,"November 7, 2016","January 8, 2017",65,"November 7, 1916",435,214,215,"Progressives (3),Independent Republican (1),Prohibitionist (1),Socialist (1)",43499,,65th,1917-1919,96,53,42,1,-,435,2101,216,9,-,,65th (1917-1919),D,D,D
+,,,,,66,"November 5, 1918",435,192,240,"Prohibitionist (1),Union-Labor (1)",43499,,66th,1919-1921,96,47,48,1,-,435,191,237,7,-,,66th (1919-1921),D,R,R
+34,Warren G. Harding,R,"November 2, 2020","January 10, 2021",67,"November 2, 1920",435,131,302,"Independent Republican (1),Socialist (1)",43499,,67th,1921-1923,96,37,59,-,-,435,132,300,1,2,,67th (1921-1923),R,R,R
+,,,,,68,"November 7, 1922",435,207,225,"Farmer-Labor (2),Socialist (1)",43499,,68th,1923-1925,96,43,51,2,-,435,207,225,3,-,,68th (1923-1925),R,R,R
+35,Calvin Coolidge,R,"November 4, 2024","January 12, 2025",69,"November 4, 1924",435,183,247,"Farmer-Labor (3),American-Labor (1),Socialist (1)",43499,,69th,1925-1927,96,40,54,1,1,435,183,247,5,-,,69th (1925-1927),R,R,R
+,,,,,70,"November 2, 1926",435,194,238,"Farmer-Labor (2),Socialist (1)",43499,,70th,1927-1929,96,47,48,1,-,435,195,237,3,-,,70th (1927-1929),R,R,R
+36,Herbert Hoover,R,"November 6, 2028","January 14, 2029",71,"November 6, 1928",435,164,270,Farmer-Labor (1),43499,,71st,1929-1931,96,39,56,1,-,435,163,267,1,4,,71st (1929-1931),R,R,R
+,,,,,72,"November 4, 1930",435,216,218,Farmer-Labor (1),43499,,72nd,1931-1933,96,47,48,1,-,435,2162,218,1,-,,72nd (1931-1933),R,R,D
+37,Franklin D. Roosevelt,D,"November 8, 1932","January 9, 1933",73,"November 8, 1932",435,313,117,Farmer-Labor (5),43499,,73rd,1933-1935,96,59,36,1,-,435,313,117,5,-,,73rd (1933-1935),D,D,D
+,,,,,74,"November 6, 1934",435,322,103,"Progressives (7),Farmer-Labor (3)",43499,,74th,1935-1937,96,69,25,2,-,435,322,103,10,-,,74th (1935-1937),D,D,D
+38,Franklin D. Roosevelt,D,"November 3, 1936","December 14, 1936",75,"November 3, 1936",435,334,88,"Progressives (8),Farmer-Labor (5)",43498,,75th,1937-1939,96,75,17,4,-,435,333,89,13,-,,75th (1937-1939),D,D,D
+,,,,,76,"November 8, 1938",435,262,169,"Progressives (2),Farmer-Labor (1),American Labor (1)",43498,,76th,1939-1941,96,69,23,4,-,435,262,169,4,-,,76th (1939-1941),D,D,D
+39,Franklin D. Roosevelt,D,"November 5, 1940","December 16, 1940",77,"November 5, 1940",435,267,162,"Progressives (3),Farmer-Labor (1),American Labor (1),Independent Democrat (1)",43498,,77th,1941-1943,96,66,28,2,-,435,267,162,6,-,,77th (1941-1943),D,D,D
+,,,,,78,"November 3, 1942",435,222,209,"Progressives (2),Farmer-Labor (1),American Labor (1)",43498,,78th,1943-1945,96,57,38,1,-,435,222,209,4,-,,78th (1943-1945),D,D,D
+40,Franklin D. Roosevelt,D,"November 7, 1944","December 18, 1944",79,"November 7, 1944",435,244,189,"Progressives (1),American Labor (1)",43498,,79th,1945-1947,96,57,38,1,-,435,243,190,2,-,,79th (1945-1947),D,D,D
+,,,,,80,"November 5, 1946",435,188,246,American Labor (1),43497,,80th,1947-1949,96,45,51,-,-,435,188,246,1,-,,80th (1947-1949),D,R,R
+41,Harry S. Truman,D,"November 2, 1948","December 13, 1948",81,"November 2, 1948",435,263,171,American Labor (1),43497,,81st,1949-1951,96,54,42,-,-,435,263,171,1,-,,81st (1949-1951),D,D,D
+,,,,,82,"November 7, 1950",435,235,199,Independent (1),43497,,82nd,1951-1953,96,48,47,1,-,435,234,199,2,-,,82nd (1951-1953),D,D,D
+42,Dwight D. Eisenhower,R,"November 4, 1952","December 15, 1952",83,"November 4, 1952",435,213,221,Independent (1),43497,,83rd,1953-1955,96,46,48,2,-,435,213,221,1,-,,83rd (1953-1955),R,R,R
+,,,,,84,"November 2, 1954",435,232,203,0,43497,,84th,1955-1957,96,48,47,1,-,435,232,203,-,-,,84th (1955-1957),R,D,D
+43,Dwight D. Eisenhower,R,"November 6, 1956","December 17, 1956",85,"November 6, 1956",435,232,203,0,43497,,85th,1957-1959,96,49,47,-,-,435,234,201,-,-,,85th (1957-1959),R,D,D
+,,,,,86,"November 4, 1958",436,282,153,Independent Democrat (1),43466,,86th,1959-1961,98,64,34,-,-,436,283,153,-,-,,86th (1959-1961),R,D,D
+44,John F. Kennedy,D,"November 8, 1960","December 19, 1960",87,"November 8, 1960",437,264,173,0,0/1,,87th,1961-1963,100,64,36,-,-,437,262,175,-,-,,87th (1961-1963),D,D,D
+,,,,,88,"November 6, 1962",435,258,176,Independent Democrat (1),0/1,,88th,1963-1965,100,67,33,-,-,435,258,176,-,1,,88th (1963-1965),D,D,D
+45,Lyndon B. Johnson,D,"November 3, 1964","December 14, 1964",89,"November 3, 1964",435,295,140,0,0/1,,89th,1965-1967,100,68,32,-,-,435,295,140,-,-,,89th (1965-1967),D,D,D
+,,,,,90,"November 8, 1966",435,248,187,0,0/1,,90th,1967-1969,100,64,36,-,-,435,248,187,-,-,,90th (1967-1969),D,D,D
+46,Richard Nixon,R,"November 5, 1968","December 16, 1968",91,"November 5, 1968",435,243,192,0,0/1,,91st,1969-1971,100,58,42,-,-,435,243,192,-,-,,91st (1969-1971),R,D,D
+,,,,,92,"November 3, 1970",435,255,180,0,43466,,92nd,1971-1973,100,54,44,2,-,435,255,180,-,-,,92nd (1971-1973),R,D,D
+47,Richard Nixon,R,"November 7, 1972","December 18, 1972",93,"November 7, 1972",435,243,192,0,43525,,93rd,1973-1975,100,56,42,2,-,435,242,192,1,-,,93rd (1973-1975),R,D,D
+,,,,,94,"November 5, 1974",435,291,144,0,43525,,94th,1975-1977,100,61,37,2,-,435,291,144,-,-,,94th (1975-1977),R,D,D
+48,Jimmy Carter,D,"November 2, 1976","December 13, 1976",95,"November 2, 1976",435,292,143,0,43525,,95th,1977-1979,100,61,38,1,-,435,292,143,-,-,,95th (1977-1979),D,D,D
+,,,,,96,"November 7, 1978",435,278,157,0,43525,,96th,1979-1981,100,58,41,1,-,435,277,158,-,-,,96th (1979-1981),D,D,D
+49,Ronald Reagan,R,"November 4, 1980","December 15, 1980",97,"November 4, 1980",435,243,192,0,43556,,97th,1981-1983,100,46,53,1,-,435,242,192,1,-,,97th (1981-1983),R,R,D
+,,,,,98,"November 2, 1982",435,269,166,0,43556,,98th,1983-1985,100,46,54,-,-,435,269,166,-,-,,98th (1983-1985),R,R,D
+50,Ronald Reagan,R,"November 6, 1984","December 17, 1984",99,"November 6, 1984",435,254,181,0,43556,,99th,1985-1987,100,47,53,-,-,435,253,182,-,-,,99th (1985-1987),R,R,D
+,,,,,100,"November 4, 1986",435,258,177,0,43556,,100th,1987-1989,100,55,45,-,-,435,258,177,-,-,,100th (1987-1989),R,D,D
+51,George H.W. Bush,R,"November 8, 1988","December 19, 1988",101,"November 8, 1988",435,260,175,0,43556,,101st,1989-1991,100,55,45,-,-,435,260,175,-,-,,101st (1989-1991),R,D,D
+,,,,,102,"November 6, 1990",435,267,167,Independent (1),43556,,102nd,1991-1993,100,56,44,-,-,435,267,167,1,-,,102nd (1991-1993),R,D,D
+52,Bill Clinton,D,"November 3, 1992","December 14, 1992",103,"November 3, 1992",435,258,176,Independent (1),43556,,103rd,1993-1995,100,57,43,-,-,435,258,176,1,-,,103rd (1993-1995),D,D,D
+,,,,,104,"November 8, 1994",435,204,230,Independent (1),43556,,104th,1995-1997,100,48,52,-,-,435,204,230,1,-,,104th (1995-1997),D,R,R
+53,Bill Clinton,D,"November 5, 1996","December 16, 1996",105,"November 5, 1996",435,207,226,Independent (2),43556,,105th,1997-1999,100,45,55,-,-,435,207,226,2,-,,105th (1997-1999),D,R,R
+,,,,,106,"November 3, 1998",435,211,223,Independent (1),43556,,106th,1999-2001,100,45,55,-,-,435,211,223,1,-,,106th (1999-2001),D,R,R
+54,George W. Bush,R,"November 7, 2000","December 18, 2000",107,"November 7, 2000",435,213,220,Independent (2),43556,,107th,2001-2003,100,50,50,-,-,435,212,221,2,-,,107th (2001-2003),R,D*,R
+,,,,,108,"November 5, 2002",435,205,229,Independent (1),43556,,108th,2003-2005,100,48,51,1,-,435,205,229,1,-,,108th (2003-2005),R,R,R
+55,George W. Bush,R,"November 2, 2004","December 13, 2004",109,"November 2, 2004",435,201,233,Independent (1),43556,,109th,2005-2007,100,44,55,1,-,435,202,231,1,1,,109th (2005-2007),R,R,R
+,,,,,110,"November 7, 2006",435,233,202,0,43556,,110th,2007-2009,100,49,49,2,-,435,233,198,-,4,,110th (2007-2009),R,D,D
+56,Barack Obama,D,"November 4, 2008","December 15, 2008",111,"November 4, 2008",435,257,178,0,43586,,111th,2009-2011,100,57,41,2,2,435,256,178,-,1,,111th (2009-2011),D,D,D
+,,,,,112,"November 2, 2010",435,193,242,0,43586,,112th,2011-2013,100,51,47,2,—,435,193,242,-,-,,112th (2011-2013),D,D,R
+57,Barack Obama,D,"November 6, 2012","December 17, 2012",113,"November 6, 2012",435,201,234,0,43586,,113th,2013-2015,100,54,45,1,—,435,201,234,—,-,,113th (2013-2015) ,D,D,R
+,,,,,114,"November 4, 2014",435,188,247,0,43586,,114th,2015–2017,100,44,54,2,—,435,188,246,—,1,,114th (2015-2017),D,R,R
+58,Donald Trump,R,"November 8, 2016","December 19, 2016",115,"November 8, 2016",435,194,241,0,43586,,,,,,,,,,,,,,,115th (2017-2019),R,R,R
+,,,,,116,"November 6, 2018",435,235,199,0,43586,,,,,,,,,,,,,,,116th (2019-2021),R,R,D
