@@ -1,1 +1,1 @@
-Crunches data from election.csv and returns stock data from 1990 and onwards based on market closed divided by market open.
+Crunches data from election.csv and returns stock data from 1990 and onwards based on market closed divided by market open for the main four - S&P(SPY), Nasdaq Composite (NASDAQ), NY Stock Exchange(NYSE), and Dow Jones(DOW).
