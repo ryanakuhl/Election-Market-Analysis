@@ -190,10 +190,10 @@ class USA:
 
     def get_stock_week_of(self):
         stock_market = {
-                        'SPY': ('^GSPC','1990-1-2'),#70
-                        'NASDAQ': ('^IXIC','1990-2-1'),#71
-                        'DOW': ('^DJI','1990-1-29'),#85
-                        'NYSE': ('^NYA','1990-1-2')#70
+                        'SPY': ('^GSPC','2004-1-2'),#70
+                        'NASDAQ': ('^IXIC','2004-2-1'),#71
+                        'DOW': ('^DJI','2004-1-29'),#85
+                        'NYSE': ('^NYA','2004-1-2')#70
                         }
         within_stock_market_range = [key for key in stock_market if len(self.congress_date) > 3 and self.week_start > datetime.strptime(stock_market.get(key)[1], '%Y-%m-%d')]
         for stock in within_stock_market_range:
